@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./globalStyles/colors.scss";
 import TodoCard from "./components/TodoCard/TodoCard";
 
 function App() {
